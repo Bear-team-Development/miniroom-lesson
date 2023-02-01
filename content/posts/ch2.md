@@ -1,6 +1,8 @@
 +++
 author="cutebear"
 title="第二節 - vscode安裝"
+description="vscode安裝教學"
+
 +++
 
 ## 前言：
