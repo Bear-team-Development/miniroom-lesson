@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mini Room</title>
+    <link>/posts/posts/</link>
+    <description>Mini Room</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+    <atom:link href="/posts/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>測試文章</title>
+      <link>/posts/posts/test/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/posts/test/</guid>
+      <description>&lt;h1 id=&#34;這只是個測試文章請忽略&#34; &gt;這只是個測試文章，請忽略
+&lt;span&gt;
+    &lt;a href=&#34;#%e9%80%99%e5%8f%aa%e6%98%af%e5%80%8b%e6%b8%ac%e8%a9%a6%e6%96%87%e7%ab%a0%e8%ab%8b%e5%bf%bd%e7%95%a5&#34;&gt;
+        &lt;svg viewBox=&#34;0 0 28 23&#34; height=&#34;100%&#34; width=&#34;19&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&lt;path d=&#34;M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;path d=&#34;M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;/svg&gt;
+    &lt;/a&gt;
+&lt;/span&gt;
+&lt;/h1&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
