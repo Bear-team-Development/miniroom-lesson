@@ -1,5 +1,5 @@
 languageCode: "en-us"
-baseUrl: "/posts"
+baseUrl: ""
 title: "Mini Room"
 theme: "hugo-theme-anubis"
 paginate: 10
