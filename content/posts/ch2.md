@@ -42,6 +42,7 @@ wsl請直接裝在windows上
 
 ## 結語
 
-vscode就裝好了，如果你不喜歡內建的主題的話，可以到extensions裡面下載一些你喜歡的主題，google一下就有人推薦（如果想要這樣的文章的話，可以到[MiniRoom](https://discord.gg/NYPHeS5uju)提出建議）
+vscode就裝好了，如果你不喜歡內建的主題的話，可以到extensions裡面下載一些你喜歡的主題，google一下就有人推薦
+（如果想要這樣的文章的話，可以到[MiniRoom](https://discord.gg/NYPHeS5uju)提出建議）
 
 拜託加入[MiniRoom](https://discord.gg/NYPHeS5uju)，這裡太冷了
