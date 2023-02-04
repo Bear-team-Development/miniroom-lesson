@@ -95,7 +95,7 @@ pyenv install 版本號
 
 如果想看最新的版本是多少，建議到[python官網](https://www.python.org/downloads/)
 
-上面寫`Download Python 版本號` 的按鈕就是最新的版本
+上面寫 `Download Python 版本號` 的按鈕就是最新的版本
 
 
 ## 結語
