@@ -40,7 +40,7 @@ brew install pyenv
 <hr>
 
 ## Windows
-建議你直接去裝個wsl看linux教學吧，不然就[官網](https://www.python.org/downloads/)下載安裝器，這作者沒有windows電腦🤣
+建議你直接去裝個wsl看linux教學吧，不然就到[官網](https://www.python.org/downloads/)下載安裝器，這作者沒有windows電腦🤣
 <hr>
 
 
@@ -91,7 +91,7 @@ pyenv install 版本號
 如果你沒有需要安裝套件的話，可以直接裝最新版
 
 如果你有需要安裝套件的話，建議使用最新版本減一個中版本號
-例如現在的最新版事3.11.X,那就安裝3.10的最新版，pyenv中只需要輸入3.10即可
+例如現在的最新版是3.11.X,那就安裝3.10的最新版，pyenv中只需要輸入3.10即可
 
 如果想看最新的版本是多少，建議到[python官網](https://www.python.org/downloads/)
 
