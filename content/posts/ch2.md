@@ -22,7 +22,7 @@ vscode是個非常好用的編輯器，大部分的萌新們都用這套 ~~（�
 
 ### 第二步：設置
 
-首先，打開vscode，然後按下command+shift+p，然後輸入shell，然後選擇`shell command: install 'code' command in PATH`
+首先，打開vscode，然後按下command+shift+p，然後輸入shell，然後選擇 `shell command: install 'code' command in PATH`
 
 <hr>
 
