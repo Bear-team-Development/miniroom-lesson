@@ -13,8 +13,8 @@ vscode是個非常好用的編輯器，大部分的萌新們都用這套 ~~（�
 點[這個](https://code.visualstudio.com/)連結然後案下載就好
 
 [Mac OS](#macos)
-[windows](#windows)
-[linux](#linux)
+[Windows](#windows)
+[Linux](#linux)
 ## macos
 ### 第一步：安裝
 
@@ -31,7 +31,7 @@ vscode是個非常好用的編輯器，大部分的萌新們都用這套 ~~（�
 <hr>
 
 ## linux
-如果你電腦跑不動Windows於是你用了linux desktop，那我建議你換電腦
+如果你電腦跑不動windows於是你用了linux desktop，那我建議你換電腦
 
 用linux當主作業系統不是個非常好的主意，linux拿來當server就好
 
