@@ -1,7 +1,7 @@
 +++
 author="cutebear"
 title="第一節 - python安裝"
-description="用pyen安裝python"
+description="用pyenv安裝python"
 +++
 
 
