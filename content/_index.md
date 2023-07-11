@@ -1,8 +1,7 @@
-# MiniRoom blog 這裡是MiniRoom的blog，目標是邀請更多~~專業潛水員~~
-這裡有很多的教學文章，記得加入我們的discord
+# MiniRoom Blog 這裡是 MiniRoom 的 Blog，目標是邀請更多~~專業潛水員~~
 
-discord群：[https://discord.gg/NYPHeS5uju](https://discord.gg/NYPHeS5uju)
+這裡有很多的教學文章，記得加入我們的 Discord
 
-<hr />
+Discord 群：https://discord.gg/NYPHeS5uju
 
-
+<hr/>
