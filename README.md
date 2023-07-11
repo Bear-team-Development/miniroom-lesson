@@ -1,3 +1,3 @@
 # miniroom-lesson
 
-# 由cutebear與miniapple寫的垃圾教學blog
+# 由 cutebear 與 miniapple 寫的垃圾教學 Blog
