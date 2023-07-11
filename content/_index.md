@@ -4,4 +4,4 @@
 
 Discord 群：https://discord.gg/NYPHeS5uju
 
-<hr/>
+<hr>
